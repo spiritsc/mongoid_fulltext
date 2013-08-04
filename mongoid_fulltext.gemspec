@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/mongoid_fulltext.rb",
-    "lib/mongoid_indexes.rb",
+    "lib/mongoid_indexable.rb",
     "mongoid_fulltext.gemspec",
     "spec/config/mongoid.yml",
     "spec/models/accentless_artwork.rb",

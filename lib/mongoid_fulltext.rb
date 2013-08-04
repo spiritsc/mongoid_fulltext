@@ -1,4 +1,4 @@
-require 'mongoid_indexes'
+require 'mongoid_indexable'
 require 'unicode_utils'
 require 'cgi'
 
